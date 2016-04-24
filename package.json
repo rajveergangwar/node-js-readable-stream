@@ -1,0 +1,16 @@
+{
+  "name": "stream",
+  "version": "0.0.0",
+  "description": "this is example of nodejs streming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajveer gangwar",
+  "license": "BSD",
+  "dependencies": {
+    "fs": "0.0.2",
+    "express": "~4.13.4",
+    "http": "0.0.0"
+  }
+}
